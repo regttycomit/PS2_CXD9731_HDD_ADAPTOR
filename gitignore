@@ -1,0 +1,16 @@
+*.bak
+*.simvision/
+*.wav
+*.fst
+*.log
+*.vcd
+*.vgm
+*.lxt
+*.xlc
+history
+sim
+*.hex
+db/*
+obj_dir
+*.dec
+*.rom
